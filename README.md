@@ -25,6 +25,15 @@ Conducted sentiment analysis on Amazon customer reviews, accurately classifying 
 
 - Hugging Face Roberta Model
 
+
+Link of Dataset
+
+```bash
+  https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
+```
+
+
 # Analysis 
 
 <img width="700" alt="Screenshot 2023-08-04 143752" src="https://github.com/Nikhil-AKA-nick/NLP-Sentiment-Analysis/assets/88368708/2b4bcc2c-d5ba-4ec3-9da9-b62ef02ccfad">
