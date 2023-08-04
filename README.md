@@ -15,12 +15,14 @@ Conducted sentiment analysis on Amazon customer reviews, accurately classifying 
 
 - Pandas
 
-- matplotlib
+- Matplotlib
 
-- seaborn
+- Seaborn
 
 - NLTK
 
 - Spacy
 
 - Hugging Face Roberta Model
+
+# Analysis
